@@ -3,9 +3,9 @@
   "symbol": "SWAPHUB",
   "name": "SwapHub",
   "defaultView": "core",
-  "address": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
-  "token": "0x598eb12A541AbbdB315045a4eDE8d277f18B8be9",
-  "core": ["0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd"],
+  "address": "0x4790f605cbdba5fce4f209868b5a05b3bff7272c",
+  "token": "0x4790f605cbdba5fce4f209868b5a05b3bff7272c",
+  "core": [""],
   "min": 0,
   "invalid": [
     "QmZieYbP3Chs1T4hzmZerBXJ9t7P3bJDj3hJDoaPaGrqjL",
